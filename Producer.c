@@ -1,5 +1,6 @@
 //https://www.youtube.com/watch?v=Qx3P2wazwI0
 #include<stdio.h>
+#include<stdlib.h>
 int mutex=1,full=0,empty=3,x=0;
 int main()
 {
